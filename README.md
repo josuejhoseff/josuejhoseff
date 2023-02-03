@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Josué Jhoseff 🖐️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josuejhoseff01/)
 
 ![Josue GitHub stats](https://github-readme-stats.vercel.app/api?username=josuejhoseff&show_icons=true&theme=radical)
 
@@ -7,5 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuejhoseff)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Sou apaixonado por tecnologia e tudo que esta ligado a ela. É impressionante a praticidade que ela nos traz no nosso dia a dia, por meio dela podemos fazer uso do lazer ou resolver um pequeno calculo aritméico ou até mesmo salvar uma vida.
 
